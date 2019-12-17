@@ -1,27 +1,9 @@
-# Todolistapp
+# ToDo List App with Angular and Realtime-Database with Firebase
+### Full functioning ready to build ToDo List App with Drag and Drop, Categories and suitable for Desktop and Mobile Devices
+### Just load your own Background,Thumbnail and Favicon and you have a personal ToDo List you can Launch on your Website/Homepage
+#### Database Integration in "todolistapp/src/enviroments.ts"
+#### Put and rename your Background Image to "todolistapp/assets/bg.jpg"
+#### Put and rename your Thumbnail Image to "todolistapp/assets/thumbnail.jpg"
+#### Put and rename your your Favicon Image to "todolistapp/assets/favicon.png"
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+![Preview](preview.jpg)
